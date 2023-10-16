@@ -15,6 +15,7 @@ if answer=='c':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is c')
 print("-------------------------------------------------------------------")
 print('\n2. Which type of Programming does Python support?')
 print("""your options are:
@@ -28,6 +29,7 @@ if answer=='d':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is d')
 print("-------------------------------------------------------------------")
 print('\n3. Is Python case sensitive when dealing with identifiers?')
 print("""your options are:
@@ -41,6 +43,7 @@ if answer=='b':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is b')
 print("-------------------------------------------------------------------")
 print('\n4. Which of the following is the correct extension of the Python file?')
 print("""your options are:
@@ -54,6 +57,7 @@ if answer=='c':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is c')
 print("-------------------------------------------------------------------")
 print('\n5. Is Python code compiled or interpreted?')
 print("""your options are:
@@ -67,6 +71,7 @@ if answer=='a':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is a')
 print("-------------------------------------------------------------------")
 print('\n6. All keywords in Python are in _________.')
 print("""your options are:
@@ -80,6 +85,7 @@ if answer=='d':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is d')
 print("-------------------------------------------------------------------")
 print('\n7. What will be the value of the following Python expression? 4 + 3 % 5')
 print("""your options are:
@@ -93,6 +99,7 @@ if answer=='a':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is a')
 print("-------------------------------------------------------------------")
 print('\n8. Which of the following is used to define a block of code in Python language?')
 print("""your options are:
@@ -106,6 +113,7 @@ if answer=='a':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is a')
 print("-------------------------------------------------------------------")
 print('\n9. Which keyword is used for function in Python language?')
 print("""your options are:
@@ -119,6 +127,7 @@ if answer=='b':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is b')
 print("-------------------------------------------------------------------")
 print('\n10. Which of the following character is used to give single-line comments in Python?')
 print("""your options are:
@@ -132,6 +141,7 @@ if answer=='b':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is b')
 print("-------------------------------------------------------------------")
 print("""\n11. What will be the output of the following Python code?
 
@@ -153,6 +163,7 @@ if answer=='b':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is b')
 print("-------------------------------------------------------------------")
 print('\n12. Which of the following functions can help us to find the version of python that we are currently working on?')
 print("""your options are:
@@ -166,6 +177,7 @@ if answer=='d':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is d')
 print("-------------------------------------------------------------------")
 print('\n13. Python supports the creation of anonymous functions at runtime, using a construct called __________')
 print("""your options are:
@@ -179,6 +191,7 @@ if answer=='c':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is c')
 print("-------------------------------------------------------------------")
 print('\n14. What is the order of precedence in python?')
 print("""your options are:
@@ -192,6 +205,7 @@ if answer=='d':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is d')
 print("-------------------------------------------------------------------")
 print('\n15. What will be the output of the following Python code snippet if x=1? x<<2')
 print("""your options are:
@@ -205,6 +219,7 @@ if answer=='a':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is a')
 print("-------------------------------------------------------------------")
 print('\n16. What does pip stand for python?')
 print("""your options are:
@@ -218,6 +233,7 @@ if answer=='c':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is c')
 print("-------------------------------------------------------------------")
 print('\n17. Which of the following is true for variable names in Python?')
 print("""your options are:
@@ -231,6 +247,7 @@ if answer=='b':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is b')
 print("-------------------------------------------------------------------")
 print("""\n18. What are the values of the following Python expressions?
 
@@ -248,6 +265,7 @@ if answer=='a':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is a')
 print("-------------------------------------------------------------------")
 print('\n19. Which of the following is the truncation division operator in Python?')
 print("""your options are:
@@ -261,6 +279,7 @@ if answer=='b':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is b')
 print("-------------------------------------------------------------------")
 print("""\n20. What will be the output of the following Python code?
 
@@ -277,6 +296,7 @@ if answer=='c':
     print('correct!')
 else:
     print('incorrect!')
+    print('correct option is c')
 print("-------------------------------------------------------------------")
 print("\n----------------Congrats you completed the Quiz!!-----------------")
 print("\n------------------Your got",score,"/",total,"questions right-----------------")
